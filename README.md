@@ -4,7 +4,7 @@ ChainLink Pair Conversion application demo that use Chainlink Data Feeds to prov
 ## Requirement
 Clone the git repository  
 
-Create a .env file (you can reference the above .env.sample file)and replace your alchemy API key and private key of your Metamask.
+Create a .env file (you can reference the above .env.sample file) and replace your alchemy API key and private key of your Metamask.
 
 ## Description
 
